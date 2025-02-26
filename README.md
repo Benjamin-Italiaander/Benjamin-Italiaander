@@ -1,4 +1,4 @@
-<h3 align="left">👋 A Linux fanatic </h3> ✔️ Based in Northern Europe, I primarily collaborate with research institutes, universities, and government agencies across the Netherlands, Belgium, and Germany.
+<h3 align="left">👋 A Linux fanatic </h3> 👉 Based in Northern Europe, I primarily collaborate with research institutes, universities, and government agencies across the Netherlands, Belgium, and Germany.
 <h2 align="right"> 🇪🇺 </h2>
 
 > Over the past decade, major tech companies like Google, Microsoft, and Amazon Web Services have accumulated vast amounts of data within their cloud platforms.
