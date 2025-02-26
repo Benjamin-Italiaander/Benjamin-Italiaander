@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! </h2>
-My name is Benjamin Italiaander and I'm a Linux fanatic, based in Northern europe, primarily working with research institutes and government in the Netherlands, Belgium, and Germany.:eu:
+My name is Benjamin Italiaander and I'm a Linux fanatic, based in Northern europe, primarily working with research institutes and government in the Netherlands, Belgium, and Germany. :eu:
 
 :e-mail: Currently working on the rollout and technical aspects of corporate digital collaboration hubs (e-mail and enterprise appilication like), creating a blueprint for companies and governments seeking greater independence and full ownership of their data. 
 
