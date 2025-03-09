@@ -1,4 +1,4 @@
-<h3 align="left">👋 A Linux fanatic </h3> 📍 Based in Northern Europe, I primarily collaborate with research institutes, universities, and government agencies across the Netherlands, Belgium, and Germany.
+<h3 align="left">👋 A Linux fanatic </h3> 📍 Based in Western Europe, I primarily collaborate with research institutes, universities, and government agencies across the Netherlands, Belgium, and Germany.
 <h2 align="right"> 🇪🇺 </h2>
 <h3> ✔️ Empowering companies with full ownership and control over their data using open-source tools</h3> 
 
