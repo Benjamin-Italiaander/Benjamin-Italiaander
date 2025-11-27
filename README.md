@@ -10,5 +10,7 @@
 
 > I’m fortunate that, [the National Research Institute for Mathematics and Computer Science](https://www.cwi.nl/en/), is providing me with the opportunity to help realize this vision.
 
-You can find the publications i cuntibuted at [pols.org](https://journals.plos.org) , [pure](https://pure.knaw.nl) and [The national research institute for mathematics and computer science in the Netherlands](https://ir.cwi.nl/)
-
+You can find the publications I contributed to at:
+- **PLOS**: [journals.plos.org](https://journals.plos.org)  
+- **KNAW Pure Repository**: [pure.knaw.nl](https://pure.knaw.nl)  
+- **CWI Research Repository** (the national research institute for mathematics and computer science in the Netherlands): [ir.cwi.nl](https://ir.cwi.nl/)
