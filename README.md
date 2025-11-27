@@ -9,3 +9,6 @@
 > In response, I am currently developing a comprehensive blueprint to help organizations and governments gain greater independence and full ownership of their data. This involves designing the strategic rollout and technical infrastructure for corporate digital collaboration hubs, including email systems and enterprise applications.
 
 > I’m fortunate that, [the National Research Institute for Mathematics and Computer Science](https://www.cwi.nl/en/), is providing me with the opportunity to help realize this vision.
+
+You can find my publications at [pols.org](https://journals.plos.org) and at [pure](https://pure.knaw.nl)
+
