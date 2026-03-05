@@ -1,5 +1,6 @@
 <h3 align="left">👋 A Linux fanatic </h3> 📍 Based in Western Europe, I primarily collaborate with research institutes, universities, and government agencies across the Netherlands, Belgium, and Germany.
 <h2 align="right"> 🇪🇺 </h2>
+<h3>> When life gets boring, I happily lose a few brain cells and a fair amount of time experimenting with Linux and open-source projects.</h3>
 <h3> ✔️ Empowering companies with full ownership and control over their data using open-source tools</h3> 
 
 >  Over the past decade, major tech companies like Google, Microsoft, and Amazon Web Services have accumulated vast amounts of data within their cloud platforms.
@@ -16,4 +17,4 @@ You can find the publications I contributed to at:
 - **CWI Research Repository** (the national research institute for mathematics and computer science in the Netherlands): [ir.cwi.nl](https://ir.cwi.nl/)
 - **Research Gate** Research Gate: [ResearchGate](https://www.researchgate.net/profile/Benjamin-Italiaander)
  
-> When life gets boring, I happily lose a few brain cells and a fair amount of time experimenting with Linux and open-source projects.
+
