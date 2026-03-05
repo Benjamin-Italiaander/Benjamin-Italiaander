@@ -1,6 +1,6 @@
-<h3 align="left">👋 A Linux fanatic </h3> 📍 Based in Western Europe, I primarily collaborate with research institutes, universities, and government agencies across the Netherlands, Belgium, and Germany.
+<h3 align="left">👋 A Linux fanatic </h3> 📍 Based in Western Europe, I primarily collaborate with research institutes, universities, and government agencies across the Netherlands, Belgium, and Germany.  When life gets boring, I happily lose a few brain cells and a fair amount of time experimenting with Linux and open-source projects.
 <h2 align="right"> 🇪🇺 </h2>
-<h2> When life gets boring, I happily lose a few brain cells and a fair amount of time experimenting with Linux and open-source projects.</h2>
+
 <h3> ✔️ Empowering companies with full ownership and control over their data using open-source tools</h3> 
 
 >  Over the past decade, major tech companies like Google, Microsoft, and Amazon Web Services have accumulated vast amounts of data within their cloud platforms.
