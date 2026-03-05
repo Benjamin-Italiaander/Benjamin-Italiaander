@@ -16,3 +16,4 @@ You can find the publications I contributed to at:
 - **CWI Research Repository** (the national research institute for mathematics and computer science in the Netherlands): [ir.cwi.nl](https://ir.cwi.nl/)
 - **Research Gate** Research Gate: [ResearchGate](https://www.researchgate.net/profile/Benjamin-Italiaander)
  
+> When life gets boring, I happily lose a few brain cells and a fair amount of time experimenting with Linux and open-source projects.
