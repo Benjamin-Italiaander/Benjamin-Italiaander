@@ -17,9 +17,14 @@ You can find the publications I contributed to at:
 - **CWI Research Repository** (the national research institute for mathematics and computer science in the Netherlands): [ir.cwi.nl](https://ir.cwi.nl/)
 - **Research Gate** Research Gate: [ResearchGate](https://www.researchgate.net/profile/Benjamin-Italiaander)
 
-currently also working on the implementation of post quantum SSH using https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex/ 
-and https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/
 
-changed from OpenPGP to age.
- 
+## Post-Quantum Cryptography Work
 
+I am currently working on the implementation of post-quantum (PQ) cryptographic protocols for SSH and data encryption.
+
+This includes experimenting with emerging hybrid key exchange mechanisms such as:
+
+- [ML-KEM Hybrid Key Exchange for SSH](https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex/)
+- [NTRU Prime for SSH](https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/)
+
+As part of this exploration, I transitioned from **OpenPGP** to **age**, favoring its simplicity and modern design for encryption workflows.
