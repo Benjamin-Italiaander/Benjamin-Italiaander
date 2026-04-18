@@ -17,14 +17,18 @@ You can find the publications I contributed to at:
 - **CWI Research Repository** (the national research institute for mathematics and computer science in the Netherlands): [ir.cwi.nl](https://ir.cwi.nl/)
 - **Research Gate** Research Gate: [ResearchGate](https://www.researchgate.net/profile/Benjamin-Italiaander)
 
+### Post-Quantum Cryptography Work
 
-## Post-Quantum Cryptography Work
+With the rapid progress in quantum computing and the rise of powerful AI tools, we have an exciting opportunity to rethink how we design secure systems and improve the way we exchange and protect information.
 
-I am currently working on the implementation of post-quantum (PQ) cryptographic protocols for SSH and data encryption.
+Motivated by these developments, I started exploring modern cryptographic approaches with a focus on post-quantum (PQ) resilience and practical, user-friendly workflows.
 
-This includes experimenting with emerging hybrid key exchange mechanisms such as:
+I am currently working on the implementation of post-quantum cryptographic protocols for SSH and data encryption, including experimentation with emerging hybrid key exchange mechanisms such as:
 
 - [ML-KEM Hybrid Key Exchange for SSH](https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex/)
 - [NTRU Prime for SSH](https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/)
 
-As part of this exploration, I transitioned from **OpenPGP** to **age**, favoring its simplicity and modern design for encryption workflows.
+As part of this exploration, I transitioned from **OpenPGP** to **age**, favoring its simplicity and modern design for encryption workflows.  
+Age also has experimental integrations with post-quantum cryptography, making it a flexible option for exploring quantum-resistant encryption in practice.
+
+The goal is to better understand these evolving technologies and contribute to building more secure and future-ready systems.
