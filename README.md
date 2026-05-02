@@ -59,16 +59,6 @@ While still evolving, age already provides a flexible foundation for experimenti
 
 ---
 
-### 📚 Publications & Contributions
-
-You can find work I contributed to via:
-
-- **PLOS** → https://journals.plos.org  
-- **KNAW Pure Repository** → https://pure.knaw.nl  
-- **CWI Research Repository** → https://ir.cwi.nl  
-- **ResearchGate** → https://www.researchgate.net/profile/Benjamin-Italiaander  
-
----
 
 
 
