@@ -10,7 +10,7 @@ When life gets too predictable, I happily disappear into Linux, break things on 
 </p>
 
 <p>
-🧠 <i>Inventor of "The Joy of Missing Out"</i> — because not every notification deserves your attention.
+<i>Inventor of "The Joy of Missing Out"</i>, because not every notification deserves your attention.
 </p>
 
 <h2 align="right">🇪🇺</h2>
@@ -19,7 +19,7 @@ When life gets too predictable, I happily disappear into Linux, break things on 
 
 > Over the past decade, companies like Google, Microsoft, and Amazon Web Services have centralized an enormous amount of the world's data.
 >
-> Governments, research institutions, and universities are increasingly aware of the risks this brings — especially around data sovereignty, control, and long-term independence.
+> Governments, research institutions, and universities are increasingly aware of the risks this brings, especially around data sovereignty, control, and long-term independence.
 >
 > My work focuses on designing and building alternatives:  
 > fully self-hosted, open, and transparent digital infrastructures.
@@ -31,16 +31,6 @@ When life gets too predictable, I happily disappear into Linux, break things on 
 
 ---
 
-### 📚 Publications & Contributions
-
-You can find work I contributed to via:
-
-- **PLOS** → https://journals.plos.org  
-- **KNAW Pure Repository** → https://pure.knaw.nl  
-- **CWI Research Repository** → https://ir.cwi.nl  
-- **ResearchGate** → https://www.researchgate.net/profile/Benjamin-Italiaander  
-
----
 
 ### 🔐 Post-Quantum Cryptography
 
@@ -68,6 +58,19 @@ While still evolving, age already provides a flexible foundation for experimenti
 - Own your data, or someone else will  
 
 ---
+
+### 📚 Publications & Contributions
+
+You can find work I contributed to via:
+
+- **PLOS** → https://journals.plos.org  
+- **KNAW Pure Repository** → https://pure.knaw.nl  
+- **CWI Research Repository** → https://ir.cwi.nl  
+- **ResearchGate** → https://www.researchgate.net/profile/Benjamin-Italiaander  
+
+---
+
+
 
 <p align="center">
 🛠️ Always building • Always learning • Occasionally overengineering
