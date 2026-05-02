@@ -10,7 +10,7 @@ When life gets too predictable, I happily disappear into Linux, break things on 
 </p>
 
 <p>
-Inventor of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/slices_of_life/reminders/EN/joy_of_missig_out.md" The Joy of Missing Out </a>, because not every notification deserves your attention.
+Inventor of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/slices_of_life/reminders/EN/joy_of_missig_out.md"> The Joy of Missing Out </a>, because not every notification deserves your attention.
 </p>
 
 <h2 align="right">🇪🇺</h2>
