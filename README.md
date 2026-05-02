@@ -59,9 +59,6 @@ While still evolving, age already provides a flexible foundation for experimenti
 
 ---
 
-
-
-
 <p align="center">
 🛠️ Always building • Always learning • Occasionally overengineering
 </p>
