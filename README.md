@@ -32,7 +32,9 @@ Inventor of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/
 
 ### Post-Quantum Cryptography
 
-With the rise of quantum computing and increasingly powerful AI systems, we’re entering a phase where rethinking security is not optional — it’s an opportunity.
+With the rise of quantum computing and increasingly powerful AI systems, we’re entering a phase where rethinking security is not optional,it’s an opportunity.
+
+The “Quantum Threat Timeline Report 2023,” authored by Dr. Michele Mosca and Dr. Marco Piani, did provide a comprehensive analysis of the timeline for when quantum computing could potentially break current cryptographic systems. This report, based on a survey of 37 leading experts in quantum computing from academia and industry, aims to offer an educated perspective on the proximity of the quantum threat by examining expert opinions on various aspects of quantum computing development. You can find the image [here](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion). However this report is from 2023 so this prooves the are in the post quantum era is right here righ now.   
 
 I’m currently exploring practical implementations of post-quantum (PQ) cryptography, focusing on real-world usability rather than theory alone.
 
@@ -42,7 +44,7 @@ This includes experimenting with hybrid SSH key exchange mechanisms such as:
 - [NTRU Prime for SSH](https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/)
   
 
-As part of this journey, I transitioned from **OpenPGP** to **age**, valuing its simplicity, clarity, and modern approach to encryption.
+As part of this journey, I testes PG options with  **OpenPGP** and **age**, concludeing age has a, and modern and simple approach to encryption. Also openPGP has a slow development and [implementation path](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/) even its sponsored by protonmail.   
 
 While still evolving, age already provides a flexible foundation for experimenting with post-quantum concepts in real workflows.
 
