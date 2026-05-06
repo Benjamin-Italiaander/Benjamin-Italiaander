@@ -36,6 +36,8 @@ With the rise of quantum computing and increasingly powerful AI systems, we are 
 The *Quantum Threat Timeline Report 2023*, authored by Michele Mosca and Marco Piani, provides a comprehensive analysis of when quantum computers may become capable of breaking today’s cryptographic systems. Based on a survey of 37 experts from academia and industry, the report offers an informed perspective on the proximity of the quantum threat and the rapid development of quantum technologies. You can find the referenced image [here](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion).
 
 Although the report dates from 2023, the pace of development since then suggests that the post-quantum transition is no longer a distant concern, it has already begun.
+> Their findings make one thing increasingly clear: the post-quantum era is no longer theoretical it has already begun.
+*Opinion-based estimates of the likelihood that a digital quantum computer will be able to break RSA-2048 within 24 hours over time.*
 
 I am currently exploring practical implementations of post-quantum (PQ) cryptography, with a focus on real-world usability rather than theory alone.
 
@@ -48,41 +50,6 @@ As part of this journey, I also explored post-quantum possibilities around **Ope
 
 At the same time, OpenPGP appears to have a relatively slow development and implementation path toward post-quantum support, despite ongoing efforts such as the [OpenPGP PQC draft](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/). I also found some of the approaches around persistent symmetric keys in certain OpenPGP implementations difficult to fully understand and evaluate from a usability and security perspective.
 
-While the ecosystem is still evolving, *age* currently feels more approachable and flexible, already providing a solid foundation for experimenting with post-quantum concepts in practical workflows.
-
-# Post-Quantum Cryptography
-
-With the rise of quantum computing and increasingly powerful AI systems, we are entering a phase where rethinking security is no longer optional — it is an opportunity.
-
-The *Quantum Threat Timeline Report 2023*, authored by Dr. Michele Mosca and Dr. Marco Piani, provides a comprehensive analysis of when quantum computers may become capable of breaking today’s cryptographic systems.
-
-The report is based on a survey of 37 leading experts in quantum computing from academia and industry, offering an informed perspective on the proximity of the quantum threat and the evolution of quantum computing capabilities.
-
-You can find the original report and graph [here](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion).
-
-> Their findings make one thing increasingly clear:  
-> **the post-quantum era is no longer theoretical — it has already begun.**
-
----
-
-## Expert Estimates on Breaking RSA-2048
-
-![Quantum Threat Timeline](./images/post-quantum-threat.png)
-
-*Opinion-based estimates of the likelihood that a digital quantum computer will be able to break RSA-2048 within 24 hours over time.*
-
----
-
-# Exploring Practical Post-Quantum Implementations
-
-I am currently exploring practical implementations of post-quantum (PQ) cryptography, focusing on real-world usability rather than theory alone.
-
-This includes experimenting with hybrid SSH key exchange mechanisms such as:
-
-- [ML-KEM Hybrid Key Exchange for SSH](https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex/)
-- [NTRU Prime for SSH](https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/)
-
----
 
 # OpenPGP vs. age — A Practical Perspective
 
@@ -96,11 +63,10 @@ This includes experimenting with hybrid SSH key exchange mechanisms such as:
 
 As part of this exploration, I tested both **OpenPGP** and **age**.
 
-While OpenPGP remains extremely powerful, its post-quantum transition path currently feels slow and complex. The ongoing [OpenPGP PQC draft](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/) is promising, but concepts such as Persistent Symmetric Keys (PSKs), including implementations by Daniel Huigens, can still be difficult to reason about from a usability perspective.
+While OpenPGP remains extremely powerful, its post-quantum transition path currently feels slow and complex. The ongoing [OpenPGP PQC draft](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/) is promising, but concepts such as Persistent Symmetric Keys (PSKs), [including implementations by Protons developer Daniel Huigens](https://gitlab.com/twisstle/openpgp-persistent-symmetric-keys), can still be difficult to reason about from a usability perspective.
 
 At the same time, **age** provides a much simpler and more understandable approach to encryption. Although still evolving, it already offers a flexible foundation for experimenting with post-quantum concepts in real-world workflows.
 
----
 
 > While the ecosystem is still evolving,  
 > **age currently feels leaner, clearer, and easier to build modern post-quantum workflows around.**
