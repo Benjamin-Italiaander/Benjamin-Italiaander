@@ -14,7 +14,7 @@ When life gets too predictable, I intentionally break systems in my homelab just
 </p>
 
 <p>
-Advocate of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/slices_of_life/reminders/EN/joy_of_missig_out.md">The Joy of Missing Out (JOMO)</a> — because not every notification deserves your attention.
+Advocate of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/slices_of_life/reminders/EN/joy_of_missig_out.md">The Joy of Missing Out (JOMO)</a> 
 </p>
 
 <h2 align="right">🇪🇺</h2>
@@ -33,7 +33,7 @@ Advocate of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/
 > - Modern Linux and network architectures
 > - Open and transparent enterprise services
 >
-> I’m fortunate to contribute to this vision at [CWI — the National Research Institute for Mathematics and Computer Science](https://www.cwi.nl/en/).
+> I’m fortunate to contribute to this vision at [the National Research Institute for Mathematics and Computer Science](https://www.cwi.nl/en/).
 
 ---
 
@@ -45,7 +45,7 @@ The *Quantum Threat Timeline Report 2023* provides a comprehensive analysis of w
 
 You can find the referenced image [here](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion).
 
-> Their findings increasingly suggest that the post-quantum era is no longer theoretical — the transition has already begun.
+> Their findings increasingly suggest that the post-quantum era is no longer theoretical, the transition has already begun.
 
 I am currently exploring practical implementations of post-quantum cryptography, focusing on real-world usability rather than theory alone.
 
@@ -56,13 +56,13 @@ This includes experimenting with hybrid SSH key exchange mechanisms such as:
 
 As part of this research, I also explored post-quantum approaches around **OpenPGP** and **age**.
 
-While OpenPGP remains extremely powerful, its transition toward post-quantum cryptography currently feels relatively slow and complex. The ongoing [OpenPGP PQC draft](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/) is promising, but some concepts — such as Persistent Symmetric Keys (PSKs) — remain difficult to reason about from both a usability and operational perspective.
+While OpenPGP remains extremely powerful, its transition toward post-quantum cryptography currently feels relatively slow and complex. The ongoing [OpenPGP PQC draft](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/) is promising, but some concepts — such as Persistent Symmetric Keys (PSKs), remain difficult to reason about from both a usability and operational perspective.
 
 At the same time, **age** offers a significantly simpler and more understandable encryption model. Although still evolving, it already provides a clean and flexible foundation for experimenting with post-quantum concepts in real-world workflows.
 
 ---
 
-## OpenPGP vs age — A Practical Perspective
+## OpenPGP vs age | A Practical Perspective
 
 | OpenPGP | age |
 |---|---|
