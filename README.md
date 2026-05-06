@@ -29,26 +29,29 @@ Inventor of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/
 >
 ---
 
-
 ### Post-Quantum Cryptography
 
-With the rise of quantum computing and increasingly powerful AI systems, we’re entering a phase where rethinking security is not optional,it’s an opportunity.
+With the rise of quantum computing and increasingly powerful AI systems, we are entering a period where rethinking security is no longer optional, it is an opportunity to build stronger and more future-resistant systems.
 
-The “Quantum Threat Timeline Report 2023,” authored by Dr. Michele Mosca and Dr. Marco Piani, did provide a comprehensive analysis of the timeline for when quantum computing could potentially break current cryptographic systems. This report, based on a survey of 37 leading experts in quantum computing from academia and industry, aims to offer an educated perspective on the proximity of the quantum threat by examining expert opinions on various aspects of quantum computing development. You can find the image [here](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion). However this report is from 2023 so this prooves the are in the post quantum era is right here righ now.   
+The *Quantum Threat Timeline Report 2023*, authored by Michele Mosca and Marco Piani, provides a comprehensive analysis of when quantum computers may become capable of breaking today’s cryptographic systems. Based on a survey of 37 experts from academia and industry, the report offers an informed perspective on the proximity of the quantum threat and the rapid development of quantum technologies. You can find the referenced image [here](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion).
 
-I’m currently exploring practical implementations of post-quantum (PQ) cryptography, focusing on real-world usability rather than theory alone.
+Although the report dates from 2023, the pace of development since then suggests that the post-quantum transition is no longer a distant concern, it has already begun.
+
+I am currently exploring practical implementations of post-quantum (PQ) cryptography, with a focus on real-world usability rather than theory alone.
 
 This includes experimenting with hybrid SSH key exchange mechanisms such as:
 
-- [ML-KEM Hybrid Key Exchange for SSH](https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex/)
-- [NTRU Prime for SSH](https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/)
-  
+* [ML-KEM Hybrid Key Exchange for SSH](https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex/)
+* [NTRU Prime for SSH](https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/)
 
-As part of this journey, I testes PG options with  **OpenPGP** and **age**, concludeing age has a, and modern and simple approach to encryption. Also openPGP has a slow development and [implementation path](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/) even its sponsored by protonmail.   
+As part of this journey, I also explored post-quantum possibilities around **OpenPGP** and **age**, ultimately finding *age* to offer a cleaner, simpler, and more modern approach to encryption workflows.
 
-While still evolving, age already provides a flexible foundation for experimenting with post-quantum concepts in real workflows.
+At the same time, OpenPGP appears to have a relatively slow development and implementation path toward post-quantum support, despite ongoing efforts such as the [OpenPGP PQC draft](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/). I also found some of the approaches around persistent symmetric keys in certain OpenPGP implementations difficult to fully understand and evaluate from a usability and security perspective.
+
+While the ecosystem is still evolving, *age* currently feels more approachable and flexible, already providing a solid foundation for experimenting with post-quantum concepts in practical workflows.
 
 ---
+
 
 ### Philosophy
 
