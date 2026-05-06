@@ -33,7 +33,7 @@ Inventor of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/
 
 With the rise of quantum computing and increasingly powerful AI systems, we are entering a period where rethinking security is no longer optional, it is an opportunity to build stronger and more future-resistant systems.
 
-The *Quantum Threat Timeline Report 2023*, authored by Michele Mosca and Marco Piani, provides a comprehensive analysis of when quantum computers may become capable of breaking today’s cryptographic systems. Based on a survey of 37 experts from academia and industry, the report offers an informed perspective on the proximity of the quantum threat and the rapid development of quantum technologies. You can find the referenced image [here](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion).
+The *Quantum Threat Timeline Report 2023*, provides a comprehensive analysis of when quantum computers may become capable of breaking today’s cryptographic systems. You can find the referenced image [here](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion).
 
 Although the report dates from 2023, the pace of development since then suggests that the post-quantum transition is no longer a distant concern, it has already begun.
 > Their findings make one thing increasingly clear: the post-quantum era is no longer theoretical it has already begun.
