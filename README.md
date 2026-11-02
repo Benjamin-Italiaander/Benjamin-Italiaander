@@ -343,6 +343,21 @@ benjamin@infra:~$ systemctl status curiosity
      Active: active (running) since forever
 ```
 
+---
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<div align="center">
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benjamin-Italiaander/Benjamin-Italiaander/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Benjamin-Italiaander/Benjamin-Italiaander/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Benjamin-Italiaander/Benjamin-Italiaander/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
+
 <div align="center">
 
 <br/>
