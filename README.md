@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Benjamin%20Italiaander&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Senior%20Linux%20%26%20Network%20Engineer%20%C2%B7%20Open%20Infrastructure%20%C2%B7%20Local%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Benjamin Italiaander — Senior Linux & Network Engineer" />
+<a href="https://github.com/Benjamin-Italiaander"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Benjamin%20Italiaander&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Senior%20Linux%20%26%20Network%20Engineer%20%C2%B7%20Open%20Infrastructure%20%C2%B7%20Local%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Benjamin Italiaander — Senior Linux & Network Engineer" /></a>
 
 <a href="https://github.com/Benjamin-Italiaander">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=680&lines=Building+the+infrastructure+that+should+already+exist.;EVPN%2FVXLAN+fabrics+%C2%B7+BGP+%C2%B7+Leaf-Spine;Linux+%C2%B7+Kubernetes+%C2%B7+Infrastructure+as+Code;NVIDIA+DGX+%C2%B7+Mellanox+%C2%B7+RoCEv2+%C2%B7+Local+AI;Post-quantum+ready.+Vendor+lock-in+free.;Own+your+data%2C+or+someone+else+will." alt="Typing SVG" />
@@ -9,11 +9,11 @@
 
 <br/>
 
-![Location](https://img.shields.io/badge/📍_Western_Europe-NL_·_BE_·_DE-003399?style=for-the-badge&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-Fanatic-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
-![Open Source](https://img.shields.io/badge/Open_Source-Advocate-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
-![Sovereignty](https://img.shields.io/badge/🇪🇺_Digital-Sovereignty-003399?style=for-the-badge&labelColor=0d1117)
-![Profile views](https://komarev.com/ghpvc/?username=Benjamin-Italiaander&style=for-the-badge&color=36BCF7&label=👀+VISITORS&labelColor=0d1117)
+[![Location](https://img.shields.io/badge/📍_Western_Europe-NL_·_BE_·_DE-003399?style=for-the-badge&labelColor=0d1117)](#-about-me)
+[![Linux](https://img.shields.io/badge/Linux-Fanatic-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)](https://www.kernel.org)
+[![Open Source](https://img.shields.io/badge/Open_Source-Advocate-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)](https://opensource.org)
+[![Sovereignty](https://img.shields.io/badge/🇪🇺_Digital-Sovereignty-003399?style=for-the-badge&labelColor=0d1117)](#-taking-back-control-of-our-data)
+[![Profile views](https://komarev.com/ghpvc/?username=Benjamin-Italiaander&style=for-the-badge&color=36BCF7&label=👀+VISITORS&labelColor=0d1117)](https://github.com/Benjamin-Italiaander)
 
 <br/>
 
@@ -29,7 +29,7 @@
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 🐧 About Me
 
-<img align="right" width="290" src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,docker,kubernetes,git,gitlab,githubactions,jenkins,nginx,grafana,pytorch,vim&perline=5" alt="Tech icons" />
+<a href="#-technical-arsenal"><img align="right" width="290" src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,docker,kubernetes,git,gitlab,githubactions,jenkins,nginx,grafana,pytorch,vim&perline=5" alt="Tech icons" /></a>
 
 I'm a **Senior Linux & Network Engineer** who designs, builds and runs **secure, scalable, high-performance infrastructure** for **research institutes, universities and government organizations** across the Netherlands, Belgium and Germany.
 
@@ -122,31 +122,9 @@ Experimental environments, proof-of-concept architectures, and practical evaluat
 <!-- ═══════════════════════════ FABRIC DIAGRAM ═══════════════════════════ -->
 ## 🕸️ The Kind of Thing I Build
 
-```mermaid
-flowchart TB
-    subgraph SPINE["🧭 Spine layer — BGP EVPN control plane"]
-        S1(["Spine 1"]):::spine
-        S2(["Spine 2"]):::spine
-    end
-    subgraph LEAF["🌿 Leaf layer — VTEPs · Anycast Gateway · Symmetric IRB"]
-        L1["Leaf 1"]:::leaf
-        L2["Leaf 2"]:::leaf
-        L3["Leaf 3"]:::leaf
-        L4["Leaf 4"]:::leaf
-    end
-    S1 & S2 === L1 & L2 & L3 & L4
-    L1 --- K["☸️ Kubernetes"]:::work
-    L2 --- V["🖥️ Proxmox / KVM"]:::work
-    L3 --- G["🚀 DGX · RoCEv2"]:::gpu
-    L4 --- C["💾 Ceph storage"]:::work
-
-    classDef spine fill:#203a43,stroke:#36BCF7,color:#fff,stroke-width:2px
-    classDef leaf fill:#2c5364,stroke:#36BCF7,color:#fff
-    classDef work fill:#0f2027,stroke:#3DA639,color:#fff
-    classDef gpu fill:#0f2027,stroke:#76B900,color:#fff,stroke-width:2px
-```
-
-<p align="center"><sub>An EVPN/VXLAN leaf-spine fabric: one routed underlay with multi-tenant overlays, carrying everything from VMs to GPU clusters.</sub></p>
+<p align="center">
+  <a href="#-technical-arsenal"><img src="assets/fabric.svg" width="760" alt="Animated EVPN/VXLAN leaf-spine fabric: two spines, four VTEP leaves, carrying Kubernetes, Proxmox/KVM, NVIDIA DGX over RoCEv2 and Ceph" /></a>
+</p>
 
 ---
 
@@ -155,25 +133,25 @@ flowchart TB
 
 <div align="center">
 
-![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_·_Mellanox-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-K3s_·_Helm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Ceph](https://img.shields.io/badge/Ceph-Storage-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
+[![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_·_Mellanox-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-us/data-center/dgx-platform/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-K3s_·_Helm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
+[![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)](https://www.proxmox.com)
+[![Ceph](https://img.shields.io/badge/Ceph-Storage-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)](https://ceph.io)
 <br/>
-![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-OCI-892CA0?style=for-the-badge&logo=podman&logoColor=white)
-![Cilium](https://img.shields.io/badge/Cilium-eBPF-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
-![Traefik](https://img.shields.io/badge/Traefik-Proxy-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+[![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white)](https://www.wireguard.com)
+[![Podman](https://img.shields.io/badge/Podman-OCI-892CA0?style=for-the-badge&logo=podman&logoColor=white)](https://podman.io)
+[![Cilium](https://img.shields.io/badge/Cilium-eBPF-F8C517?style=for-the-badge&logo=cilium&logoColor=black)](https://cilium.io)
+[![Traefik](https://img.shields.io/badge/Traefik-Proxy-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)](https://traefik.io)
 <br/>
-![Puppet](https://img.shields.io/badge/Puppet-Config-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
-![Salt](https://img.shields.io/badge/SaltStack-Automation-57BCAD?style=for-the-badge&logo=saltproject&logoColor=white)
-![Forgejo](https://img.shields.io/badge/Forgejo-Git-FB923C?style=for-the-badge&logo=forgejo&logoColor=white)
-![Argo](https://img.shields.io/badge/Argo_CD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+[![Puppet](https://img.shields.io/badge/Puppet-Config-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)](https://www.puppet.com)
+[![Salt](https://img.shields.io/badge/SaltStack-Automation-57BCAD?style=for-the-badge&logo=saltproject&logoColor=white)](https://saltproject.io)
+[![Forgejo](https://img.shields.io/badge/Forgejo-Git-FB923C?style=for-the-badge&logo=forgejo&logoColor=white)](https://forgejo.org)
+[![Argo](https://img.shields.io/badge/Argo_CD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argoproj.github.io/cd/)
 <br/>
-![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![YubiKey](https://img.shields.io/badge/YubiKey-FIDO2-84BD00?style=for-the-badge&logo=yubico&logoColor=white)
+[![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com)
+[![YubiKey](https://img.shields.io/badge/YubiKey-FIDO2-84BD00?style=for-the-badge&logo=yubico&logoColor=white)](https://www.yubico.com)
 
 <sub>👇 Expand a category for the full stack</sub>
 
@@ -350,11 +328,13 @@ benjamin@infra:~$ systemctl status curiosity
 
 ### 🐍 Contribution Activity
 
+<a href="https://github.com/Benjamin-Italiaander?tab=repositories">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Benjamin-Italiaander/Benjamin-Italiaander/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Benjamin-Italiaander/Benjamin-Italiaander/output/github-snake.svg" />
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Benjamin-Italiaander/Benjamin-Italiaander/output/github-snake.svg" width="100%" />
 </picture>
+</a>
 
 </div>
 
@@ -368,6 +348,6 @@ benjamin@infra:~$ systemctl status curiosity
 
 <sub>🛠️ Always building • Always learning • Occasionally overengineering</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<a href="#-about-me"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Back to top" /></a>
 
 </div>
