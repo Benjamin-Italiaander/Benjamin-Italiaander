@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Benjamin%20Italiaander&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Senior%20Linux%20%26%20Network%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Benjamin Italiaander — Senior Linux & Network Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Benjamin%20Italiaander&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Senior%20Linux%20%26%20Network%20Engineer%20%C2%B7%20Open%20Infrastructure%20%C2%B7%20Local%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Benjamin Italiaander — Senior Linux & Network Engineer" />
 
 <a href="https://github.com/Benjamin-Italiaander">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=640&lines=Building+the+infrastructure+that+should+already+exist.;EVPN%2FVXLAN+%C2%B7+BGP+%C2%B7+Leaf-Spine+fabrics;Linux+%C2%B7+Kubernetes+%C2%B7+Automation;NVIDIA+DGX+%C2%B7+Mellanox+%C2%B7+Local+AI;Post-Quantum+Cryptography+%F0%9F%94%90;Own+your+data%2C+or+someone+else+will." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=680&lines=Building+the+infrastructure+that+should+already+exist.;EVPN%2FVXLAN+fabrics+%C2%B7+BGP+%C2%B7+Leaf-Spine;Linux+%C2%B7+Kubernetes+%C2%B7+Infrastructure+as+Code;NVIDIA+DGX+%C2%B7+Mellanox+%C2%B7+RoCEv2+%C2%B7+Local+AI;Post-quantum+ready.+Vendor+lock-in+free.;Own+your+data%2C+or+someone+else+will." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,63 +13,89 @@
 ![Linux](https://img.shields.io/badge/Linux-Fanatic-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0d1117)
 ![Open Source](https://img.shields.io/badge/Open_Source-Advocate-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)
 ![Sovereignty](https://img.shields.io/badge/🇪🇺_Digital-Sovereignty-003399?style=for-the-badge&labelColor=0d1117)
+![Profile views](https://komarev.com/ghpvc/?username=Benjamin-Italiaander&style=for-the-badge&color=36BCF7&label=👀+VISITORS&labelColor=0d1117)
+
+<br/>
+
+<h3>
+  I design and build networks, Linux platforms and AI infrastructure<br/>
+  that organizations can <b>own</b> — not rent.
+</h3>
 
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+## 🐧 About Me
+
+<img align="right" width="290" src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,docker,kubernetes,git,gitlab,githubactions,jenkins,nginx,grafana,pytorch,vim&perline=5" alt="Tech icons" />
+
+I'm a **Senior Linux & Network Engineer** who designs, builds and runs **secure, scalable, high-performance infrastructure** for **research institutes, universities and government organizations** across the Netherlands, Belgium and Germany.
+
+From the datacenter fabric to the GPU, I work across the full stack. That means **EVPN/VXLAN leaf-spine networks**, hardened Linux platforms, virtualization and containers, identity and access management, and the automation that holds it all together.
+
+At [**CWI**, the National Research Institute for Mathematics and Computer Science](https://www.cwi.nl/en/), I have the freedom and resources to build **experimental environments at real scale**. I use them to test new network architectures, put emerging technologies under load, and turn research ideas into infrastructure that works in production.
+
+Right now I'm focused on **NVIDIA Mellanox networking, DGX platforms and local AI**, including combining **NVIDIA DGX Spark with Exo** to build decentralized, privacy-first AI that never leaves the building.
+
+And when life gets too predictable, I break my homelab on purpose to learn how to rebuild it better. 🔧
+
+<br clear="right"/>
+
+<table>
+<tr>
+<td>🔭 <b>Building</b></td><td>Sovereign, self-hosted platforms for research &amp; government</td>
+</tr>
+<tr>
+<td>🧠 <b>Exploring</b></td><td>DGX Spark + Exo for distributed, privacy-first local AI</td>
+</tr>
+<tr>
+<td>🔐 <b>Researching</b></td><td>Post-quantum cryptography: hybrid SSH key exchange, OpenPGP &amp; age</td>
+</tr>
+<tr>
+<td>🌐 <b>Fabric-ing</b></td><td>EVPN/VXLAN, RoCEv2 &amp; InfiniBand for GPU clusters</td>
+</tr>
+<tr>
+<td>🌿 <b>Living by</b></td><td><a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/slices_of_life/reminders/EN/joy_of_missig_out.md">The Joy of Missing Out (JOMO)</a></td>
+</tr>
+</table>
+
 ---
 
-## 🐧 Professional Profile
-
-<img align="right" width="300" src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python,docker,kubernetes,git,gitlab,githubactions,jenkins,nginx,grafana,pytorch,vim&perline=5" alt="Tech icons" />
-
-I'm a passionate **Linux and network engineer** specializing in the design, implementation, and management of **secure, scalable, high-performance enterprise infrastructure**.
-
-Based in Western Europe, I collaborate with **research institutes, universities, and government organizations** across the Netherlands, Belgium, and Germany.
-
-My work focuses on building **open, reliable, and sustainable infrastructure**, with a strong emphasis on security, automation, transparency, digital sovereignty, and technological independence.
-
-My expertise spans enterprise networking, advanced routing and switching, **EVPN/VXLAN fabrics**, Linux systems engineering, virtualization, containerization, identity management, and infrastructure automation.
-
-I'm particularly interested in **NVIDIA Mellanox networking, DGX platforms, GPU computing, distributed systems, and local AI** — and in combining NVIDIA DGX Spark with technologies such as Exo to build decentralized, privacy-focused AI infrastructure.
-
-I'm fortunate to work at [the National Research Institute for Mathematics and Computer Science (CWI)](https://www.cwi.nl/en/), which gives me the **freedom, resources, and opportunity to design and build experimental environments on a relatively large scale** — evaluating emerging technologies, testing advanced network architectures, and exploring solutions beyond conventional production environments.
-
-When life gets too predictable, I intentionally break systems in my homelab just to understand how to rebuild them better. 🔧
-
-> 💡 I believe the best infrastructure is **open, secure, transparent, maintainable, and built to last**.
-
-<sub>🌿 Advocate of <a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/slices_of_life/reminders/EN/joy_of_missig_out.md"><b>The Joy of Missing Out (JOMO)</b></a></sub>
-
----
-
+<!-- ═══════════════════════════ COMPETENCIES ═══════════════════════════ -->
 ## 🎯 Core Competencies
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Enterprise Networking & Datacenter Fabrics
-Designing and implementing advanced Layer 2/Layer 3 networks, routing protocols, high-performance Ethernet fabrics, EVPN/VXLAN overlays, and resilient datacenter architectures.
+### 🌐 Datacenter Networking
+**Fabrics that don't fall over.**<br/>
+Layer 2/Layer 3 design, BGP and OSPF routing, EVPN/VXLAN overlays, and resilient leaf-spine Ethernet fabrics built for high throughput and fast convergence.
 
 </td>
 <td width="50%" valign="top">
 
-### 🐧 Linux Engineering & Enterprise Infrastructure
-Linux system administration, enterprise server environments, virtualization, storage platforms, distributed systems, performance optimization, and high-availability architectures.
+### 🐧 Linux Engineering
+**From kernel to cluster.**<br/>
+Enterprise Linux, virtualization, storage, distributed systems, performance tuning, and high-availability architectures that stay understandable.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📦 Containers, Automation & DevOps
-Containerization, orchestration, infrastructure automation, configuration management, Git-based workflows, and automated provisioning.
+### ⚙️ Automation & DevOps
+**If it's done twice, it's code.**<br/>
+Containers, orchestration, configuration management, GitOps workflows, and zero-touch provisioning from bare metal up.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Network Security & Identity Management
-Secure network architectures, encrypted communications, access control, authentication, certificate management, network segmentation, and Zero Trust principles.
+### 🔐 Security & Identity
+**Zero Trust by design, not as an afterthought.**<br/>
+Network segmentation, MACsec and IPsec, PKI and certificate management, strong authentication, and identity-centric access control.
 
 </td>
 </tr>
@@ -77,13 +103,15 @@ Secure network architectures, encrypted communications, access control, authenti
 <td width="50%" valign="top">
 
 ### 🚀 AI Infrastructure & HPC
-NVIDIA DGX platforms, Mellanox networking, GPU acceleration, deep learning containers, distributed computing, local AI inference, and privacy-focused AI infrastructure.
+**GPUs need networks that keep up.**<br/>
+NVIDIA DGX, Mellanox, RDMA/RoCEv2, GPU acceleration, deep learning containers, and distributed local inference.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Research, Experimentation & Innovation
-Designing and operating experimental environments at scale, evaluating emerging technologies, developing proof-of-concept architectures, and translating research into practical infrastructure.
+### 🧪 Research & Innovation
+**Prototype at scale, then make it production-grade.**<br/>
+Experimental environments, proof-of-concept architectures, and practical evaluation of emerging technologies.
 
 </td>
 </tr>
@@ -91,27 +119,63 @@ Designing and operating experimental environments at scale, evaluating emerging 
 
 ---
 
-## 🧰 Technical Skills & Technologies
+<!-- ═══════════════════════════ FABRIC DIAGRAM ═══════════════════════════ -->
+## 🕸️ The Kind of Thing I Build
+
+```mermaid
+flowchart TB
+    subgraph SPINE["🧭 Spine layer — BGP EVPN control plane"]
+        S1(["Spine 1"]):::spine
+        S2(["Spine 2"]):::spine
+    end
+    subgraph LEAF["🌿 Leaf layer — VTEPs · Anycast Gateway · Symmetric IRB"]
+        L1["Leaf 1"]:::leaf
+        L2["Leaf 2"]:::leaf
+        L3["Leaf 3"]:::leaf
+        L4["Leaf 4"]:::leaf
+    end
+    S1 & S2 === L1 & L2 & L3 & L4
+    L1 --- K["☸️ Kubernetes"]:::work
+    L2 --- V["🖥️ Proxmox / KVM"]:::work
+    L3 --- G["🚀 DGX · RoCEv2"]:::gpu
+    L4 --- C["💾 Ceph storage"]:::work
+
+    classDef spine fill:#203a43,stroke:#36BCF7,color:#fff,stroke-width:2px
+    classDef leaf fill:#2c5364,stroke:#36BCF7,color:#fff
+    classDef work fill:#0f2027,stroke:#3DA639,color:#fff
+    classDef gpu fill:#0f2027,stroke:#76B900,color:#fff,stroke-width:2px
+```
+
+<p align="center"><sub>An EVPN/VXLAN leaf-spine fabric: one routed underlay with multi-tenant overlays, carrying everything from VMs to GPU clusters.</sub></p>
+
+---
+
+<!-- ═══════════════════════════ SKILLS ═══════════════════════════ -->
+## 🧰 Technical Arsenal
 
 <div align="center">
 
-![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_·_Mellanox-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-K3s_·_Helm-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-Containers-892CA0?style=flat-square&logo=podman&logoColor=white)
-![Ceph](https://img.shields.io/badge/Ceph-Storage-EF5C55?style=flat-square&logo=ceph&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![Puppet](https://img.shields.io/badge/Puppet-Config-FFAE1A?style=flat-square&logo=puppet&logoColor=white)
-![Salt](https://img.shields.io/badge/SaltStack-Automation-57BCAD?style=flat-square&logo=saltproject&logoColor=white)
-![Forgejo](https://img.shields.io/badge/Forgejo-Git-FB923C?style=flat-square&logo=forgejo&logoColor=white)
-![Argo](https://img.shields.io/badge/Argo_CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-D40000?style=flat-square&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000000?style=flat-square&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![YubiKey](https://img.shields.io/badge/YubiKey-FIDO2-84BD00?style=flat-square&logo=yubico&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-DGX_·_Mellanox-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-K3s_·_Helm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Ceph](https://img.shields.io/badge/Ceph-Storage-EF5C55?style=for-the-badge&logo=ceph&logoColor=white)
+<br/>
+![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-OCI-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Cilium](https://img.shields.io/badge/Cilium-eBPF-F8C517?style=for-the-badge&logo=cilium&logoColor=black)
+![Traefik](https://img.shields.io/badge/Traefik-Proxy-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+<br/>
+![Puppet](https://img.shields.io/badge/Puppet-Config-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+![Salt](https://img.shields.io/badge/SaltStack-Automation-57BCAD?style=for-the-badge&logo=saltproject&logoColor=white)
+![Forgejo](https://img.shields.io/badge/Forgejo-Git-FB923C?style=for-the-badge&logo=forgejo&logoColor=white)
+![Argo](https://img.shields.io/badge/Argo_CD-GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+<br/>
+![Ollama](https://img.shields.io/badge/Ollama-Local_AI-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![YubiKey](https://img.shields.io/badge/YubiKey-FIDO2-84BD00?style=for-the-badge&logo=yubico&logoColor=white)
 
-<sub>👇 Click a category to expand</sub>
+<sub>👇 Expand a category for the full stack</sub>
 
 </div>
 
@@ -197,85 +261,97 @@ Designing and operating experimental environments at scale, evaluating emerging 
 
 ---
 
-## 🇪🇺 Enabling Organizations to Regain Control Over Their Data
+<!-- ═══════════════════════════ SOVEREIGNTY ═══════════════════════════ -->
+## 🇪🇺 Taking Back Control of Our Data
 
-> Over the past decade, companies such as Google, Microsoft, and Amazon Web Services have centralized an enormous amount of the world's digital infrastructure and data.
->
-> Governments, research institutions, and universities are increasingly aware of the risks this creates around **sovereignty, privacy, vendor lock-in, and long-term independence**.
+> [!NOTE]
+> In a single decade, a handful of hyperscalers (Google, Microsoft and Amazon Web Services) have come to host a staggering share of the world's digital infrastructure and data.
 
-My work focuses on designing and building practical, open-source alternatives:
+Governments, research institutions and universities are waking up to what that costs them: **sovereignty, privacy, freedom from vendor lock-in, and long-term independence**.
 
-| | |
-|:---:|---|
-| 🤝 | Self-hosted collaboration platforms |
-| ✉️ | Secure mail infrastructures |
-| 🪪 | Identity and access management systems |
-| 🌐 | Modern Linux and network architectures |
-| 🔍 | Open and transparent enterprise services |
+I build the alternative: **open-source, self-hosted and fully under your own control.**
+
+<table>
+<tr>
+<td align="center" width="20%">🤝<br/><b>Collaboration</b><br/><sub>Self-hosted platforms</sub></td>
+<td align="center" width="20%">✉️<br/><b>Mail</b><br/><sub>Secure mail infrastructure</sub></td>
+<td align="center" width="20%">🪪<br/><b>Identity</b><br/><sub>IAM &amp; SSO systems</sub></td>
+<td align="center" width="20%">🌐<br/><b>Networks</b><br/><sub>Modern Linux &amp; network architecture</sub></td>
+<td align="center" width="20%">🔍<br/><b>Services</b><br/><sub>Open, transparent enterprise IT</sub></td>
+</tr>
+</table>
 
 ---
 
+<!-- ═══════════════════════════ PQC ═══════════════════════════ -->
 ## 🔐 Post-Quantum Cryptography
 
-With the rise of quantum computing and increasingly powerful AI systems, we are entering a period where rethinking security is no longer optional — it is an **opportunity to build stronger and more future-resistant systems**.
+Quantum computing and ever more powerful AI mean today's cryptography has an expiry date. I don't see that as a threat to manage. I see it as **a rare chance to rebuild security on stronger foundations.**
 
-The *Quantum Threat Timeline Report 2023* provides a comprehensive analysis of when quantum computers may become capable of breaking today's cryptographic systems ([referenced image](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion)).
+The *Quantum Threat Timeline Report 2023* maps out when quantum computers may be able to break today's public-key cryptography ([see the expert-opinion chart](https://postquantum.com/post-quantum/q-day-crqc-predictions/#expert-opinion)).
 
 > [!IMPORTANT]
-> Their findings increasingly suggest that the post-quantum era is no longer theoretical — **the transition has already begun.**
+> The post-quantum era is no longer theoretical. **The transition has already begun.** Data harvested today can be decrypted tomorrow.
 
-I am currently exploring practical implementations of post-quantum cryptography, focusing on real-world usability rather than theory alone, including hybrid SSH key exchange mechanisms:
+My focus is **real-world usability, not theory**. I'm running hybrid post-quantum key exchange for SSH in practice:
 
-- 🔑 [ML-KEM Hybrid Key Exchange for SSH](https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex/)
-- 🔑 [NTRU Prime for SSH](https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/)
+| Mechanism | Spec |
+|---|---|
+| 🔑 **ML-KEM hybrid** key exchange for SSH | [draft-ietf-sshm-mlkem-hybrid-kex](https://datatracker.ietf.org/doc/draft-ietf-sshm-mlkem-hybrid-kex/) |
+| 🔑 **NTRU Prime** for SSH | [draft-josefsson-ntruprime-ssh](https://datatracker.ietf.org/doc/draft-josefsson-ntruprime-ssh/) |
 
-As part of this research, I also explored post-quantum approaches around **OpenPGP** and **age**.
+I've also put **OpenPGP** and **age** through their post-quantum paces. OpenPGP is powerful, but its PQ transition is slow and complex. The [OpenPGP PQC draft](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/) is promising, yet concepts such as Persistent Symmetric Keys (PSKs) remain hard to reason about, both for users and for operators. **age**, by contrast, has a clean and understandable model that already makes a solid foundation for post-quantum workflows.
 
-While OpenPGP remains extremely powerful, its transition toward post-quantum cryptography currently feels relatively slow and complex. The ongoing [OpenPGP PQC draft](https://datatracker.ietf.org/doc/draft-ietf-openpgp-pqc/) is promising, but some concepts — such as Persistent Symmetric Keys (PSKs) — remain difficult to reason about from both a usability and operational perspective.
-
-At the same time, **age** offers a significantly simpler and more understandable encryption model. Although still evolving, it already provides a clean and flexible foundation for experimenting with post-quantum concepts in real-world workflows.
-
-### ⚖️ OpenPGP vs age — A Practical Perspective
+<details>
+<summary><b>⚖️ OpenPGP vs age: a practical comparison</b></summary>
+<br/>
 
 | 🗝️ OpenPGP | ✨ age |
 |---|---|
 | Mature ecosystem | Modern and minimalist |
-| Complex implementation details | Easier to understand and experiment with |
+| Complex implementation details | Easy to understand and experiment with |
 | Slower PQ transition path | Clean and flexible design |
-| Fragmented tooling | Simple and consistent workflows |
-| Powerful but difficult to operationalize | Practical and approachable |
+| Fragmented tooling | Simple, consistent workflows |
+| Powerful but hard to operationalize | Practical and approachable |
+
+</details>
 
 > [!TIP]
-> While the ecosystem is still evolving, **age currently feels leaner, clearer, and easier to build modern post-quantum workflows around.**
+> **Verdict:** while both ecosystems are still evolving, **age is leaner, clearer, and easier to build modern post-quantum workflows around.**
 
 ---
 
+<!-- ═══════════════════════════ PHILOSOPHY ═══════════════════════════ -->
 ## 🧭 Engineering Philosophy
 
-I believe that **open standards, technical independence, security, and continuous experimentation** are fundamental to building sustainable infrastructure.
+**Open standards, technical independence, security and relentless experimentation** are the foundations of infrastructure that lasts.
 
-My approach combines established engineering principles with a willingness to explore emerging technologies, challenge conventional solutions, and develop systems that are not only reliable today but adaptable to tomorrow's requirements.
+I combine proven engineering discipline with a willingness to challenge the default, so the systems I build are reliable today and ready for whatever tomorrow demands. Most of all, they **stay understandable and maintainable** long after the first deploy.
 
-I'm particularly motivated by opportunities to experiment with emerging technologies at scale, bridge traditional infrastructure with modern computing architectures, and build systems that remain understandable and maintainable over time.
-
-```text
-$ cat /etc/philosophy
+```console
+benjamin@infra:~$ cat /etc/philosophy.conf
+[principles]
   ✔ Keep systems understandable
   ✔ Prefer open over opaque
   ✔ Automate the boring parts
   ✔ Break things → learn → rebuild better
   ✔ Own your data, or someone else will
+
+benjamin@infra:~$ systemctl status curiosity
+● curiosity.service - Always building, always learning
+     Loaded: loaded (/etc/systemd/system/curiosity.service; enabled)
+     Active: active (running) since forever
 ```
 
 <div align="center">
 
-**Open Infrastructure · Secure Networks · Distributed Computing · Local Intelligence · Digital Sovereignty**
-
-*Design. Build. Experiment. Improve.*
-
 <br/>
 
-🛠️ Always building • Always learning • Occasionally overengineering
+### Open Infrastructure · Secure Networks · Distributed Computing · Local Intelligence · Digital Sovereignty
+
+**Design. Build. Experiment. Improve.**
+
+<sub>🛠️ Always building • Always learning • Occasionally overengineering</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 
