@@ -60,7 +60,7 @@ And when life gets too predictable, I break my homelab on purpose to learn how t
 <td>🔐 <b>Researching</b></td><td>Post-quantum cryptography: hybrid SSH key exchange, OpenPGP &amp; age</td>
 </tr>
 <tr>
-<td>🌐 <b>Fabric-ing</b></td><td>EVPN/VXLAN, RoCEv2 &amp; InfiniBand for GPU clusters</td>
+<td>🌐 <b>Fabric-ing</b></td><td>EVPN/VXLAN &amp; RoCEv2</td>
 </tr>
 <tr>
 <td>🌿 <b>Living by</b></td><td><a href="https://github.com/Benjamin-Italiaander/My_Notes/blob/main/slices_of_life/reminders/EN/joy_of_missig_out.md">The Joy of Missing Out (JOMO)</a></td>
