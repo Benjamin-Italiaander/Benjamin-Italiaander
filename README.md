@@ -70,7 +70,7 @@ And when life gets too predictable, I break my homelab on purpose to learn how t
 ---
 
 <!-- ═══════════════════════════ COMPETENCIES ═══════════════════════════ -->
-## 🎯 Core Competencies
+## 🎯 What I Mainly Work On
 
 <table>
 <tr>
