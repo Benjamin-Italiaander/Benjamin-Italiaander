@@ -43,7 +43,7 @@ From the datacenter fabric to the GPU, I work across the full stack. That means 
 
 At [**CWI**, the National Research Institute for Mathematics and Computer Science](https://www.cwi.nl/en/), I have the freedom and resources to build **experimental environments at real scale**. I use them to test new network architectures, put emerging technologies under load, and turn research ideas into infrastructure that works in production.
 
-Right now I'm focused on **NVIDIA Mellanox networking, DGX platforms and local AI**, including combining **NVIDIA DGX Spark with Exo** to build decentralized, privacy-first AI that never leaves the building.
+Right now, I'm focused on **NVIDIA DGX platforms, GPU computing, and local AI**, including combining **NVIDIA DGX Spark with Exo** to build decentralized, privacy-first AI infrastructure that runs entirely on-premises.
 
 And when life gets too predictable, I break my homelab on purpose to learn how to rebuild it better. 🔧
 
