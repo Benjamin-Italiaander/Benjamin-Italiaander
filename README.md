@@ -4,7 +4,7 @@
 <a href="https://github.com/Benjamin-Italiaander"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Benjamin%20Italiaander&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Senior%20Linux%20%26%20Network%20Engineer%20%C2%B7%20Open%20Infrastructure%20%C2%B7%20Local%20AI&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Benjamin Italiaander — Senior Linux & Network Engineer" /></a>
 
 <a href="https://github.com/Benjamin-Italiaander">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=680&lines=Building+the+infrastructure+that+should+already+exist.;EVPN%2FVXLAN+fabrics+%C2%B7+BGP+%C2%B7+Leaf-Spine;Linux+%C2%B7+Kubernetes+%C2%B7+Infrastructure+as+Code;Post-quantum+ready.+Vendor+lock-in+free.;Own+your+data%2C+or+someone+else+will." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=680&lines=Building+the+infrastructure+that+should+already+exist.;EVPN%2FVXLAN+fabrics+%C2%B7+BGP+%C2%B7+Leaf-Spine;Linux+%C2%B7+Kubernetes+%C2%B7+Infrastructure+as+Code;%F0%9F%A7%A0+Local+AI+on+DGX+Spark+%C2%B7+Ollama+%C2%B7+n8n;Post-quantum+ready.+Vendor+lock-in+free.;Own+your+data%2C+or+someone+else+will." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,6 +14,12 @@
 [![Open Source](https://img.shields.io/badge/Open_Source-Advocate-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0d1117)](https://opensource.org)
 [![Sovereignty](https://img.shields.io/badge/🇪🇺_Digital-Sovereignty-003399?style=for-the-badge&labelColor=0d1117)](#-taking-back-control-of-our-data)
 [![Profile views](https://komarev.com/ghpvc/?username=Benjamin-Italiaander&style=for-the-badge&color=36BCF7&label=👀+VISITORS&labelColor=0d1117)](https://github.com/Benjamin-Italiaander)
+<br/>
+
+[![Local AI](https://img.shields.io/badge/🧠_Local_AI-On--Prem_·_Private-8A2BE2?style=for-the-badge&labelColor=0d1117)](#-about-me)
+[![DGX Spark](https://img.shields.io/badge/NVIDIA-DGX_Spark-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0d1117)](https://www.nvidia.com/en-us/products/workstations/dgx-spark/)
+[![Ollama](https://img.shields.io/badge/Ollama-Self--Hosted_LLMs-ffffff?style=for-the-badge&logo=ollama&logoColor=white&labelColor=0d1117)](https://ollama.com)
+[![n8n](https://img.shields.io/badge/n8n-AI_Workflows-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&labelColor=0d1117)](https://n8n.io)
 
 <br/>
 
